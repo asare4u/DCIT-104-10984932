@@ -1,3 +1,6 @@
+//This is a program to list and give the average of numbers below the given positive number.
+// STUDENT ID : 10984932
+
 #include <iostream> 
  
 using namespace std; 
@@ -35,3 +38,4 @@ int main()
     return 0; 
 }
 
+//I pledge that I did the work by my self. My Student ID is 10984932 
